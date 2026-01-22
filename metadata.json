@@ -1,0 +1,5 @@
+{
+  "name": "Campus Energy Intelligence Dashboard",
+  "description": "A sophisticated energy monitoring dashboard that analyzes campus meter readings to identify consumption patterns during office hours, evening winding down, and overnight periods with AI-driven savings insights.",
+  "requestFramePermissions": []
+}
